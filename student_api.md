@@ -72,27 +72,6 @@ Response
     }
 ```
 
-## 修改手机号
-Request URL
-```javascript
-    /v1/student/ChangePhone
-```
-POST
-```golang
-    signal:d6b3c9800c9d73c5c5fd40255f07c3a9bc7adb2b4dbf0125fb33aecb4d35c2f9
-    phone:15874732244
-    appkey:s9QY7ZYad6Xm
-    timestamp:1570975456
-    new_phone:11111111111
-```
-Response
-```javascript
-    {
-        "message": "success",
-        "result": 0
-    }
-```
-
 ## 修改地址
 Request URL
 ```javascript
