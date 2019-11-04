@@ -22,6 +22,28 @@ Response
    }
 ```
 
+## 增加评价
+Request URL
+```javascript
+    /v1/student/AddEvaluate
+```
+POST
+```golang
+    signal:212ffc1a0cf3336e72c8a79066ba04ccbdf6366558c0da9d2bf6396d935a0e1b
+    phone:15874732245
+    appkey:s9QY7ZYad6Xm
+    timestamp:1572877664
+    evaluate:True
+```
+Response
+```javascript
+    {
+        "message": "success",
+        "result": 0
+    }
+```
+
+
 ## 查找
 Request URL
 ```javascript
