@@ -313,7 +313,6 @@ POST
     phone:15874732244
     appkey:s9QY7ZYad6Xm
     timestamp:1572877664
-    status:15874732244
 ```
 Response
 ```javascript
