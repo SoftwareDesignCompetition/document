@@ -49,7 +49,7 @@ Response
    }
 ```
 
-##获取教师
+## 获取教师
 Request URL
 ```javascript
     /v1/teacher/GetTeacher
